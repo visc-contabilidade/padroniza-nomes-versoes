@@ -17,8 +17,9 @@ interno do escritório e só ficam acessíveis depois do login com o email insti
 1. Baixe o `padroniza-nomes.zip` pelo link acima.
 2. Clique com o botão direito no zip, **Propriedades**, marque **Desbloquear** e clique em OK.
 3. Extraia para `Documentos\PadronizaNomes` (numa atualização, extraia por cima).
-4. Crie um atalho de `PadronizaNomes.cmd` na área de trabalho.
-5. Dê duplo clique no atalho e siga o `LEIA-ME.txt` que vem no pacote.
+4. Na primeira vez, dê duplo clique em `PadronizaNomes.cmd` e responda **S** quando a ferramenta
+   oferecer criar o atalho **Padroniza Nomes**, com ícone, na área de trabalho.
+5. Use sempre o atalho. O `LEIA-ME.txt` que vem no pacote explica o resto.
 
 ## Versões anteriores
 
